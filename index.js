@@ -26,3 +26,17 @@ function johnLennonFacts (arr)
   }
   return newArr;
 }
+
+function iLoveTheBeatles(n)
+{
+  var arr = [];
+  
+  do{
+    arr.push("I love the Beatles!");
+    n++;
+  }while( i < 15)
+  
+  return arr;
+}
+
+
